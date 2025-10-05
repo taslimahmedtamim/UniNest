@@ -17,7 +17,7 @@ Our goal: Save time, reduce confusion, help new students feel included, and make
 
 ---
 
-## Main Features (Plain and Simple)
+## Main Features
 
 ### 1. Canteen
 - See the menu with availability and prices.
