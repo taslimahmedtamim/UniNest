@@ -143,11 +143,11 @@ We’ll keep things simple at the start (maybe just a single repo).
 
 ## Team
 
-| Name | Role | Focus |
-|------|------|-------|
-| Taslim Ahmed Tamim | Team Lead / Backend | Core APIs, auth, structure |
-| Salman Kabir Sany | Frontend | UI, user experience, responsive design |
-| Majharul Islam | Full Stack / Data | Database design, logic modules, deployments |
+| Name | 
+|------|
+| Taslim Ahmed Tamim | 
+| Salman Kabir Sany | 
+| Majharul Islam | 
 
 ---
 
@@ -171,6 +171,6 @@ We’ll keep things simple at the start (maybe just a single repo).
 
 ## Status
 
-This is the human-friendly project overview. As we implement, we’ll keep this file updated so it matches reality.
+This is the project overview. As we implement, we’ll keep this file updated so it matches reality.
 
 Thanks for reading. Let’s build something students actually enjoy using. 💡
