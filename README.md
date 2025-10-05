@@ -25,39 +25,34 @@ Our goal: Save time, reduce confusion, help new students feel included, and make
 - Get an alert when it’s ready.
 - See an estimated calorie count.
 - Rate meals so the canteen can improve.
+- AI integration to predict needs of food and reduce waste of food
 
-### 2. Library
-- Check if a book is available.
-- Get a reminder before the due date.
-- Access digital books (when allowed).
-- Reserve a book if it’s taken.
-
-### 3. Notice Board
+### 2. Notice Board
 - All campus notices in one list: exams, bus times, fees, holidays.
 - Filter by type (Exam, Transport, Finance, etc.).
 - Important notices can send a push alert.
 
-### 4. Chat (Campus Only)
+### 3. Chat (Campus Only)
 - Only verified university members.
 - Channels for batches, departments, courses, help.
 - Freshers can ask seniors questions.
 - Basic moderation (future: report / mute).
 
-### 5. Weather Alerts
+### 4. Weather Alerts
 - Local campus weather snapshot.
 - Rain or severe weather warnings.
 
-### 6. Lost & Found
+### 5. Lost & Found
 - Post found or lost items with photos.
 - Mark as claimed when resolved.
 - Search by category (Electronics, ID card, etc.).
 
-### 7. Smart Timetable
+### 6. Smart Timetable
 - Shows today’s classes with room numbers.
 - Highlights overlaps (if any).
 - Lets you view your personal schedule.
 
-### 8. Exam & Deadline Countdown
+### 7. Exam & Deadline Countdown
 - Add class tests, assignments, midterms, finals.
 - See a countdown.
 - Get reminders before the date.
