@@ -143,11 +143,11 @@ We’ll keep things simple at the start (maybe just a single repo).
 
 ## Team
 
-| Name | 
-|------|
-| Taslim Ahmed Tamim | 
-| Salman Kabir Sany | 
-| Majharul Islam | 
+| Name | Profession |
+|------| ---------- |
+| Taslim Ahmed Tamim | Student | 
+| Salman Kabir Sany | Student |
+| Majharul Islam | Student |
 
 ---
 
