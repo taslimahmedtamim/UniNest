@@ -25,7 +25,7 @@ Our goal: Save time, reduce confusion, help new students feel included, and make
 - Get an alert when it’s ready.
 - See an estimated calorie count.
 - Rate meals so the canteen can improve.
-- AI integration to predict needs of food and reduce waste of food
+- AI integration to predict day wise needs of food and reduce waste of food
 
 ### 2. Notice Board
 - All campus notices in one list: exams, bus times, fees, holidays.
