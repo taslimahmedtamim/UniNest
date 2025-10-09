@@ -1,171 +1,62 @@
 # UniNest
 
-UniNest is a friendly all‑in‑one campus app idea. Instead of jumping between many scattered systems (canteen menu, library site, random chat groups, paper notices), students and staff get one clean place to do daily tasks.
+UniNest is an all‑in‑one campus platform with a primary focus on canteen automation. Our first milestone is to digitize and streamline food service operations; additional student‑life modules will follow iteratively.
 
-Our goal: Save time, reduce confusion, help new students feel included, and make campus life smoother.
+## Objectives
+- Shorter queues and faster service
+- Reduced food waste through demand forecasting
+- Clear campus communications and utilities added over time
+- Simple, accessible UX for students and staff
 
----
+## Core Feature: Canteen Automation
+- Digital menu with prices and availability
+- Pre‑order, scheduled pickup, and online payments
+- Order status and ready notifications
+- Kitchen dashboard for batching and prep
+- Basic inventory signals (low/out of stock)
+- Demand prediction (AI) to optimize prep and reduce waste
+- Feedback and meal ratings to improve offerings
+- Analytics for peak hours and popular items
 
-## Why UniNest?
+## Additional Modules (added over time)
+- Notice Board: exams, transport, fees, holidays; filters and alerts
+- Campus‑only Chat: verified users, channels, basic moderation
+- Weather Alerts: local snapshot and severe weather warnings
+- Lost & Found: post, search, resolve
+- Smart Timetable: today’s classes, room numbers, personal schedule
+- Exam & Deadline Countdown: track items and receive reminders
 
-- One app instead of many bookmarks.
-- Less waiting in canteen lines.
-- No “When is the exam?” panic.
-- Friendly place to ask seniors for help.
-- Quick way to track lost items.
-- Simple reminders so you don’t forget returns or deadlines.
+## Roadmap
+- Phase 1: Auth, canteen basics (menu, ordering, payments, notifications)
+- Phase 2: Notice Board, Lost & Found, Timetable, Countdown
+- Phase 3: Chat, analytics enhancements, integrations
 
----
+## Tech Overview (planned)
+- Frontend: Web (React or similar); mobile later
+- Backend: Node.js (REST + WebSockets)
+- Database: PostgreSQL
+- Integrations: Payment, Weather, Email/Push
 
-## Main Features
-
-### 1. Canteen
-- See the menu with availability and prices.
-- Pre‑order food and pay online.
-- Get an alert when it’s ready.
-- See an estimated calorie count.
-- Rate meals so the canteen can improve.
-- AI integration to predict day wise needs of food and reduce waste of food
-
-### 2. Notice Board
-- All campus notices in one list: exams, bus times, fees, holidays.
-- Filter by type (Exam, Transport, Finance, etc.).
-- Important notices can send a push alert.
-
-### 3. Chat (Campus Only)
-- Only verified university members.
-- Channels for batches, departments, courses, help.
-- Freshers can ask seniors questions.
-- Basic moderation (future: report / mute).
-
-### 4. Weather Alerts
-- Local campus weather snapshot.
-- Rain or severe weather warnings.
-
-### 5. Lost & Found
-- Post found or lost items with photos.
-- Mark as claimed when resolved.
-- Search by category (Electronics, ID card, etc.).
-
-### 6. Smart Timetable
-- Shows today’s classes with room numbers.
-- Highlights overlaps (if any).
-- Lets you view your personal schedule.
-
-### 7. Exam & Deadline Countdown
-- Add class tests, assignments, midterms, finals.
-- See a countdown.
-- Get reminders before the date.
-
----
-
-## How It Helps a Student Day
-
-Morning: Open app → See today’s classes + weather → Decide to bring umbrella.  
-Before lunch: Pre-order food → Skip queue.  
-Afternoon: Check a library book → Reserve it.  
-Evening: Add upcoming assignment → Timer starts.  
-Anytime: Ask seniors “How to register for lab?” → Quick answer.  
-Lost wallet? → Check Lost & Found.
-
----
-
-## Simple User Stories
-
-- As a fresher, I want to ask seniors questions without feeling shy.
-- As a busy student, I want reminders so I don’t miss deadlines.
-- As a canteen vendor, I want to know orders ahead of peak time.
-- As a librarian, I want fewer late returns.
-- As a student, I want to quickly see if it will rain before a long walk.
-
----
-
-## Future Ideas (Nice to Have Later)
-
-- AI helper that answers common campus questions.
-- Seat availability (library / labs).
-- Meal suggestions based on calories & past choices.
-- Reputation points for helpful chat answers.
-- Calendar sync with Google.
-
----
-
-## Very Light Tech Overview (For Now)
-
-Planned:
-- Frontend: Web (React or similar) + maybe mobile later.
-- Backend: Node.js (REST + real‑time for chat).
-- Database: PostgreSQL.
-- Real‑time: WebSockets.
-- Extras: Weather API, Payment API, Email / Push notifications.
-(We will adjust as we build.)
-
----
-
-## Development (Early Stage Plan)
-
-1. Start with Auth + Notice Board (foundation).
-2. Add Canteen basic menu + ordering.
-3. Add Library search + reminders.
-4. Add Chat + Lost & Found.
-5. Add Timetable + Exam countdown.
-6. Polish, test, demo.
-
----
-
-## Contributing (Team Flow)
-
+## Contributing
 1. Create a branch: `feat/short-description`
-2. Write clean, simple commits.
-3. Open a Pull Request with:
-   - What changed
-   - Why it matters
-4. Get review → Merge.
-
-We’ll keep things simple at the start (maybe just a single repo).
-
----
+2. Write clean, focused commits
+3. Open a Pull Request describing what changed and why
 
 ## Tone & Design Principles
-
-- Clear over clever.
-- Fewer clicks.
-- Friendly wording.
-- Helpful defaults (auto reminders).
-- Lightweight first, optimize later.
-
----
+- Clear over clever
+- Fewer clicks
+- Helpful defaults (auto reminders)
+- Ship small, iterate
 
 ## Team
-
 | Name | Profession |
-|------| ---------- |
-| Taslim Ahmed Tamim | Student | 
+|------|------------|
+| Taslim Ahmed Tamim | Student |
 | Salman Kabir Sany | Student |
 | Majharul Islam | Student |
 
----
-
 ## License
-
-(To decide) — Likely MIT so others can learn from it.
-
----
-
-## Quick Demo Flow (Future)
-
-1. Login as student.
-2. See today’s timetable & next exam countdown.
-3. Order a meal → Get ready alert.
-4. Search a book → Reserve it.
-5. Post a question in chat → Senior replies.
-6. Check weather → Rain warning shown.
-7. Mark a found USB as “claimed”.
-
----
+To decide (likely MIT).
 
 ## Status
-
-This is the project overview. As we implement, we’ll keep this file updated so it matches reality.
-
-Thanks for reading. Let’s build something students actually enjoy using. 💡
+Early planning. This README will be updated as implementation progresses.
