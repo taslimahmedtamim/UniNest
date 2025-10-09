@@ -1,28 +1,28 @@
 # UniNest
 
-UniNest is an all‑in‑one campus platform with a primary focus on canteen automation. Our first milestone is to digitize and streamline food service operations; additional student‑life modules will follow iteratively.
+UniNest is an all‑in‑one campus platform with a primary focus on canteen automation. We will ship canteen features first, then add other student‑life modules iteratively.
 
-## Objectives
-- Shorter queues and faster service
-- Reduced food waste through demand forecasting
-- Clear campus communications and utilities added over time
-- Simple, accessible UX for students and staff
+## Why UniNest?
+- One app instead of many systems
+- Shorter queues and faster canteen service
+- Reduced food waste via demand forecasting
+- Clear campus information and simple reminders
 
 ## Core Feature: Canteen Automation
 - Digital menu with prices and availability
 - Pre‑order, scheduled pickup, and online payments
 - Order status and ready notifications
 - Kitchen dashboard for batching and prep
-- Basic inventory signals (low/out of stock)
-- Demand prediction (AI) to optimize prep and reduce waste
+- Inventory signals (low/out of stock)
+- AI‑driven demand prediction to reduce waste
 - Feedback and meal ratings to improve offerings
 - Analytics for peak hours and popular items
 
-## Additional Modules (added over time)
+## Additional Modules (iterative)
 - Notice Board: exams, transport, fees, holidays; filters and alerts
 - Campus‑only Chat: verified users, channels, basic moderation
 - Weather Alerts: local snapshot and severe weather warnings
-- Lost & Found: post, search, resolve
+- Lost & Found: post items, search, resolve
 - Smart Timetable: today’s classes, room numbers, personal schedule
 - Exam & Deadline Countdown: track items and receive reminders
 
@@ -30,6 +30,11 @@ UniNest is an all‑in‑one campus platform with a primary focus on canteen aut
 - Phase 1: Auth, canteen basics (menu, ordering, payments, notifications)
 - Phase 2: Notice Board, Lost & Found, Timetable, Countdown
 - Phase 3: Chat, analytics enhancements, integrations
+
+## Development Model (Agile)
+- Iterative, incremental delivery in short sprints
+- Frequent releases and user feedback
+- Backlog reprioritized as we learn; canteen automation remains the main focus
 
 ## Tech Overview (planned)
 - Frontend: Web (React or similar); mobile later
@@ -51,9 +56,9 @@ UniNest is an all‑in‑one campus platform with a primary focus on canteen aut
 ## Team
 | Name | Profession | GitHub |
 |------|------------|--------|
-| Taslim Ahmed Tamim | Student | https://github.com/taslimahmedtamim |
-| Salman Kabir Sany  | Student | https://github.com/salmankabirsany |
-| Majharul Islam     | Student | https://github.com/MrMajharul |
+| Taslim Ahmed Tamim | Student | [taslimahmedtamim](https://github.com/taslimahmedtamim) |
+| Salman Kabir Sany  | Student | [salmankabirsany](https://github.com/salmankabirsany) |
+| Majharul Islam     | Student | [MrMajharul](https://github.com/MrMajharul) |
 
 ## License
 To decide (likely MIT).
