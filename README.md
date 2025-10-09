@@ -49,11 +49,11 @@ UniNest is an all‑in‑one campus platform with a primary focus on canteen aut
 - Ship small, iterate
 
 ## Team
-| Name | Profession |
-|------|------------|
-| Taslim Ahmed Tamim | Student |
-| Salman Kabir Sany | Student |
-| Majharul Islam | Student |
+| Name | Profession | GitHub |
+|------|------------|--------|
+| Taslim Ahmed Tamim | Student | https://github.com/taslimahmedtamim |
+| Salman Kabir Sany  | Student | https://github.com/salmankabirsany |
+| Majharul Islam     | Student | https://github.com/MrMajharul |
 
 ## License
 To decide (likely MIT).
