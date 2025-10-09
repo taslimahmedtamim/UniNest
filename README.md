@@ -1,5 +1,4 @@
 # UniNest
-
 UniNest is an all‑in‑one campus platform with a primary focus on canteen automation. We will ship canteen features first, then add other student‑life modules iteratively.
 
 ## Why UniNest?
@@ -61,7 +60,7 @@ UniNest is an all‑in‑one campus platform with a primary focus on canteen aut
 | Majharul Islam     | Student | [MrMajharul](https://github.com/MrMajharul) |
 
 ## License
-To decide (likely MIT).
+To decide.
 
 ## Status
 Early planning. This README will be updated as implementation progresses.
