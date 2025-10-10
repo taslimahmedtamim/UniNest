@@ -42,7 +42,7 @@ UniNest's canteen automation will streamline ordering, reduce queues and waste, 
   - Analytics for peak hours, popular items, and demand trends.
   - Demand prediction models to optimize menu planning and reduce waste.
 
-## Library Automation (new)
+## Library Automation 
 UniNest will include a Library Automation module to make library access seamless, safe, and data-driven:
 
 - Membership Issuance
@@ -69,7 +69,7 @@ UniNest will include a Library Automation module to make library access seamless
   - Usage heatmaps and peak-hour predictions to inform staffing and opening hours.
   - Possible integration with the library catalog and overdue notifications (optional).
 
-## Centralized Campus Chat (new)
+## Centralized Campus Chat 
 A campus-wide, centralized chat system will help the community surface problems, coordinate, and improve campus life:
 
 - Verified Campus Users
